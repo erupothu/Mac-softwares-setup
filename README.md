@@ -14,6 +14,8 @@ Mac Softtwares
   NVM                   -   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
 
 ```
+
+```
 Programming Technologies
   software              purpose                -    framework                -    Programming compiler                  Download Url
   NVM, NodeJs           frontend Development   -    Angular, React, VueJs    -    Java script(.js), Typescript(.ts)  -  https://nodejs.org/en/download/package-manager
