@@ -12,6 +12,10 @@ Mac Softtwares
   springboot            -   sdk install springboot
   Quarkus               -   sdk install quarkus
   NVM                   -   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
+  Mongo Server          -   brew install mongodb-community, brew services start mongodb-community
+  Mongo Compass client  -   brew install --cask mongodb-compass
+  MySql Server          -    brew install mysql, brew services restart mysql, mysql.server start, mysql_secure_installation
+  MySql workbench       -  https://dev.mysql.com/downloads/workbench/
 
 ```
 
