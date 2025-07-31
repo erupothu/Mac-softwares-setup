@@ -16,6 +16,7 @@ Mac Softtwares
   Mongo Compass client  -   brew install --cask mongodb-compass
   MySql Server          -    brew install mysql, brew services restart mysql, mysql.server start, mysql_secure_installation
   MySql workbench       -  https://dev.mysql.com/downloads/workbench/
+  Docker                -  https://docs.docker.com/desktop/setup/install/mac-install/
 
 ```
 
