@@ -17,6 +17,7 @@ Mac Softtwares
   MySql Server          -    brew install mysql, brew services restart mysql, mysql.server start, mysql_secure_installation
   MySql workbench       -  https://dev.mysql.com/downloads/workbench/
   Docker                -  https://docs.docker.com/desktop/setup/install/mac-install/
+  Ollama                -  brew install --cask ollama (CMD - ollama list, ollama rm model_name, ollama run llama3.2 , ollama run qwen2.5:1.5b)
 
 ```
 
